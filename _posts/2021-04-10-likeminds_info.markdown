@@ -13,7 +13,8 @@ author: Sahil Garg
 externalLink: false
 ---
 
-![video](https://youtu.be/P3Sexe8pXVM)
+<iframe width="560" height="310" src="https://www.youtube.com/embed/P3Sexe8pXVM" frameborder="0" allowfullscreen></iframe>
+
 
 LikeMinds brings together people and communities around common interests.
 We are a messaging app and we help communities engage deeper by enabling real-time conversations between relevant members in shared chat rooms. We also dramatically reduce spam and foster collaboration by applying technology. [Link](https://play.google.com/store/apps/details?id=com.collabmates)
