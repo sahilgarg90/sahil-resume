@@ -24,9 +24,10 @@ externalLink: false
 - Mood/sleep/pain tracking
 - Risk management feature
 - Lifestyle choice monitoring
-- Relaxation and mindfulness training,
+- Relaxation and mindfulness training
 - Activity planning
 - Medication compliance training
 - Positive thinking coach
-- Live strategy prompting for emotion regulation!
+- Live strategy prompting for emotion regulation
+
 ---
