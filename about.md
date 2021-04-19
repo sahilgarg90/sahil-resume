@@ -26,10 +26,10 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Likeminds</a></li>
-	<li><a href="https://github.com/">Cityworks</a></li>
-	<li><a href="https://github.com/">CommunityX</a></li>
-	<li><a href="https://github.com/">QuickHands</a></li>
-	<li><a href="https://github.com/">MyPsyDiary</a></li>
-	<li><a href="https://github.com/">EZ-AD TV</a></li>
+	<li><a href="https://sahilgarg90.github.io/likeminds/">Likeminds</a></li>
+	<li><a href="https://sahilgarg90.github.io/communityx/">CommunityX</a></li>
+	<li><a href="https://sahilgarg90.github.io/quickhands/">QuickHands</a></li>
+	<li><a href="https://sahilgarg90.github.io/cityworks/">Cityworks</a></li>
+	<li><a href="https://sahilgarg90.github.io/ezadtv/">EZ-AD TV</a></li>
+	<li><a href="https://sahilgarg90.github.io/mypsydiary/">MyPsyDiary</a></li>
 </ul>
