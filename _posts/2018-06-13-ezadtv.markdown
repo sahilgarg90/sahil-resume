@@ -1,0 +1,31 @@
+---
+title: "EZ-AD Barcode Scanner App"
+layout: post
+date: 2018-06-13 22:10
+tag: Android
+image: ../assets/images/projects-logo/ezadtv.webp
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A Suite of Marketing Technologies That Is Easy to Use"
+category: project
+author: Sahil Garg
+externalLink: false
+---
+
+<iframe width="560" height="310" src="https://www.youtube.com/embed/DCetMT2QiFQ" frameborder="0" allowfullscreen></iframe>
+
+
+EZ-AD’s NEW Mobile App is perfect for any retail location, especially hardware retailers. With over 1.8 million products built-in, you can scan any UPC or enter a SKU and quickly pull product information such as competitor pricing, videos from the manufacturer or create a sign with a click of a button. The EZ-AD app can also be linked to an EZ-AD TV Media Player (separate purchase required) and you can push content directly from your phone. View vendor products & videos and browse through ready-to-go monthly ads. [Link](https://play.google.com/store/apps/details?id=com.flexsin.ezadtv)
+
+---
+
+**Features:**
+
+- Scan & Instantly load over 3 million products
+- Compare Prices To Major Retailers
+- Instantly Watch A Video Related To The Product You Scanned
+- See Similar Or Add-on Products To What You've Scanned
+- View Product Videos Straight From the Manufacturer
+
+---
