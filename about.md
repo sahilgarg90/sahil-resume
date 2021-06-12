@@ -20,6 +20,8 @@ layout: page
 	<li>RxJava</li>
 	<li>Coroutines</li>
 	<li>Data Binding</li>
+	<li>Android Jetpack</li>
+	<li>R8/Proguard</li>
 	<li>MVVM, MVP Architectures</li>
 </ul>
 
